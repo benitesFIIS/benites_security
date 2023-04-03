@@ -1,0 +1,11 @@
+AllCops:
+  DisabledDefault: true
+Layout/LineLength:
+  Max: 80
+Metrics/ParameterLists:
+  Max: 3
+Metrics/CyclomaticComplexity:
+  Enabled: true
+  Max: 10
+Lint/Debugger:
+  Enabled: true
