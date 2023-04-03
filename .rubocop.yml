@@ -9,3 +9,14 @@ Metrics/CyclomaticComplexity:
   Max: 10
 Lint/Debugger:
   Enabled: true
+
+Security/Eval:
+  Enabled: true
+Security/JSONLoad:
+  Enabled: true
+Security/MarshalLoad:
+  Enabled: true
+Security/Open:
+  Enabled: true
+Security/YAMLLoad:
+  Enabled: true
